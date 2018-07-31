@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A ping pong quote API",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/cameronwilby/ping-pong-quotes",
   "author": "Cameron Wilby <cameron@wilby.com>",
   "license": "MIT",
